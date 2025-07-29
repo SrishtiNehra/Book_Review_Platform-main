@@ -36,7 +36,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/umeshyadav7988/book_Review_Platform.git
+   git clone https://github.com/SrishtiNehra/Book_Review_Platform-main.git
    cd book_Review_Platform
    ```
 
