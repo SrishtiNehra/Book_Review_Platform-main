@@ -37,7 +37,7 @@
 
    ```bash
    git clone https://github.com/SrishtiNehra/Book_Review_Platform-main.git
-   cd book_Review_Platform
+   cd Book_Review_Platform
    ```
 
 2. **Navigate to the backend folder**:
